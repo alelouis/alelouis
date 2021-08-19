@@ -1,2 +1,2 @@
-### ~/home/alelouis/github
+`cd ~/home/alelouis/github`
 
