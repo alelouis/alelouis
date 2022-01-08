@@ -2,7 +2,7 @@ Hi, I code for fun. Below are several projects [I've been | I am] working on ðŸ‘
 
 - [`stargazer`](https://github.com/alelouis/stargazer) Star explorer for stargazers
 - [`miditeach`](https://github.com/alelouis/midiTeach) Learning tool to practice chords skills with a midi keyboard
-- [`midi-parse`](https://github.com/alelouis/midi-parse) Small midi parser for debug
+- [`mumuse`](https://github.com/alelouis/mumuse) Small midi parser for debug
 - [`web-fiesta`](https://github.com/alelouis/web-fiesta) Fiesta game replication for the Web
 - [`lst`](https://github.com/alelouis/lst) Local Sidereal Time displayer
 - [`omnitouch`](https://github.com/alelouis/omnitouch) Omnichord TouchOSC replication
