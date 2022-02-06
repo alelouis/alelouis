@@ -7,6 +7,7 @@ Hi, I code for fun. Below are several projects [I've been | I am] working on ðŸ‘
 - [`web-fiesta`](https://github.com/alelouis/web-fiesta) Fiesta game replication for the Web
 - [`lst`](https://github.com/alelouis/lst) Local Sidereal Time displayer
 - [`omnitouch`](https://github.com/alelouis/omnitouch) Omnichord TouchOSC replication
+- [`lpx-text-display`](https://github.com/alelouis/lpx-text-display) Text display utility for Launchpad X 
 - [`jumpy-vim`](https://github.com/alelouis/jumpy-vim) Minigame experiment where you move with vim commands
 - [`notae-elegantissimae`](https://github.com/alelouis/notae-elegantissimae) Numerical notation of medieval Cistercian monastic order
 - [`auto-map`](https://github.com/alelouis/auto-map) Automatic generation of orthographic maps for countries
