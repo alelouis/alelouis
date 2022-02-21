@@ -14,4 +14,5 @@ Hi, I code for fun. Below are several projects [I've been | I am] working on �
 - [`advent-of-code`](https://github.com/alelouis/advent-of-code) AoC solutions for 2021 and 2020
 
 Recurring themes are space 🪐, music 🎹 and random things 💡 I find interesting.  
-I also share thoughts, write things on a [`blog`](https://alelouis.eu/) and [`twitter`](https://twitter.com/_alelouis).
+I also share thoughts, write things on a [`blog`](https://alelouis.eu/) and [`twitter`](https://twitter.com/_alelouis).  
+Also, my [`dotfiles`](https://github.com/alelouis/dotfiles).
