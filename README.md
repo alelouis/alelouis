@@ -3,6 +3,7 @@ Hi, I code for fun. Below are several projects [I've been | I am] working on ðŸ‘
 - [`mumuse`](https://github.com/alelouis/mumuse) Small music theory library with MIDI capabilities
 - [`stargazer`](https://github.com/alelouis/stargazer) Star explorer for stargazers
 - [`mini-synth`](https://github.com/alelouis/mini-synth) Modular mini-synth modules in Python
+- [`retrorust`](https://github.com/alelouis/retrorust) Mini retro-vibe monophonic synthesizer
 - [`miditeach`](https://github.com/alelouis/midiTeach) Learning tool to practice chords skills with a midi keyboard
 - [`pasvupaspris`](https://github.com/alelouis/pasvupaspris) Global Game Jam 2022 entry
 - [`web-fiesta`](https://github.com/alelouis/web-fiesta) Fiesta game replication for the Web
