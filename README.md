@@ -17,7 +17,7 @@ Hi, I code for fun. Below are several projects [I've been | I am] working on �
 - [`lpx-text-display`](https://github.com/alelouis/lpx-text-display) Text display utility for Launchpad X 
 - [`jumpy-vim`](https://github.com/alelouis/jumpy-vim) Minigame experiment where you move with vim commands
 - [`notae-elegantissimae`](https://github.com/alelouis/notae-elegantissimae) Numerical notation of medieval Cistercian monastic order
-- [`advent-of-code`](https://github.com/alelouis/advent-of-code) AoC solutions for 2021 and 2020
+- [`advent-of-code`](https://github.com/alelouis/advent-of-code) AoC solutions for 2020, 2021 and 2022 (python)
 
 Recurring themes are space 🪐, music 🎹 and random things 💡 I find interesting.  
 I also share thoughts, write things on a [`blog`](https://alelouis.eu/) and [`twitter`](https://twitter.com/_alelouis).  
