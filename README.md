@@ -1,5 +1,6 @@
 Hi, I code for fun. Below are several projects [I've been | I am] working on 👨‍💻.  
 
+- [`quadcopter`](https://github.com/alelouis/quadcopter) Implementation of quadcopter flight dynamics & control 
 - [`ballistic-kf`](https://github.com/alelouis/ballistic-kf) Kalman filter position tracking of ballistic object in Rust
 - [`perlin-verlet`](https://github.com/alelouis/perlin-verlet) Particle flow in Perlin fields using verlet integration
 - [`mumuse`](https://github.com/alelouis/mumuse) Small music theory library with MIDI capabilities
